@@ -1,0 +1,8 @@
+body {
+  color: #0ff;
+  background: #222;
+}
+.title {
+  font-size: 5rem;
+  font-weight: 300;
+}
